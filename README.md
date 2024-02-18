@@ -1,29 +1,24 @@
 # Fundamentos de Programación Segundo parcial _ Luis Santiago Taco Batson
 En este repositorio se guardarán todos los archivos de código fuente correspondientes a los sistemas desarrollados durante el segundo parcial de Fundamentos de Programación. 
-Por supuesto, aquí tienes una versión actualizada del README con un enfoque más específico en el uso de Python, GitHub y PyCharm:
 
-```
-# Repositorio del Segundo Parcial de Fundamentos de Programación
 
-Este repositorio contiene todos los archivos de código fuente correspondientes a los sistemas desarrollados durante el segundo parcial del curso de Fundamentos de Programación.
-
-## Contenido del Repositorio
+ Contenido del Repositorio
 
 El repositorio está organizado en las siguientes carpetas:
 
-- **Proyecto1**: Carpeta que contiene los archivos relacionados con el primer proyecto del parcial.
-- **Proyecto2**: Carpeta que contiene los archivos relacionados con el segundo proyecto del parcial.
-- **Proyecto3**: Carpeta que contiene los archivos relacionados con el tercer proyecto del parcial.
-- **Recursos**: Carpeta que contiene archivos adicionales o recursos utilizados en los proyectos, como imágenes, archivos de configuración, etc.
+- Proyecto1: Carpeta que contiene los archivos relacionados con el primer proyecto del parcial.
+- Proyecto2: Carpeta que contiene los archivos relacionados con el segundo proyecto del parcial.
+- Proyecto3: Carpeta que contiene los archivos relacionados con el tercer proyecto del parcial.
+- Recursos: Carpeta que contiene archivos adicionales o recursos utilizados en los proyectos, como imágenes, archivos de configuración, etc.
 
 ## Instrucciones de Uso
 
 Para utilizar este repositorio y colaborar en los proyectos, sigue estos pasos:
 
 1. Clona el repositorio en tu máquina local:
-    ```
+   [ ```
     git clone https://github.com/tu_usuario/Segundo-Parcial.git
-    ```
+    ```](https://github.com/ls-tacob/Programacion_SantiagoTaco)
 2. Abre el proyecto en PyCharm:
     - Abre PyCharm y selecciona "Open" en el menú principal.
     - Navega hasta la carpeta del repositorio clonado y selecciónala.
@@ -58,8 +53,4 @@ Para utilizar este repositorio y colaborar en los proyectos, sigue estos pasos:
 
 ## Licencia
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para obtener más detalles.
-
-```
-
-Este README proporciona instrucciones claras sobre cómo clonar y abrir el repositorio en PyCharm, así como detalles sobre cómo colaborar en los proyectos y la licencia del proyecto. También se enfoca en el uso de Python, GitHub y PyCharm para una mejor comprensión de los usuarios.
+sin definir aun, repositorio público
