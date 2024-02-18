@@ -1,4 +1,4 @@
-# Fundamentos de Programacion Segundo parcial _ Luis Santiago Taco Batson
+# Fundamentos de Programación Segundo parcial _ Luis Santiago Taco Batson
 En este repositorio se guardarán todos los archivos de código fuente correspondientes a los sistemas desarrollados durante el segundo parcial de Fundamentos de Programación. 
 Por supuesto, aquí tienes una versión actualizada del README con un enfoque más específico en el uso de Python, GitHub y PyCharm:
 
